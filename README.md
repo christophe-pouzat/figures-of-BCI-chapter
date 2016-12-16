@@ -15,7 +15,7 @@ The (very detailed) code generating the second figure can be found on my [LASCON
 
 ## Version française
 
-Ce dépôt contient le code `R` nécessaire à la ré-génération de toutes les figures, sauf une, de mon chapitre « Analyse des données extracellulaires » du livre « Les interfaces cerveau-ordinateur 1. Fondements et méthodes. » édité par Maureen Clerc, Laurent Bougrain et Fabien Lotte chez [iSTE editions]([http://iste-editions.fr/products/les-interfaces-cerveau-ordinateur-1).
+Ce dépôt contient le code `R` nécessaire à la ré-génération de toutes les figures, sauf une, de mon chapitre « Analyse des données extracellulaires » du livre « Les interfaces cerveau-ordinateur 1. Fondements et méthodes. » édité par Maureen Clerc, Laurent Bougrain et Fabien Lotte chez [iSTE editions](http://iste-editions.fr/products/les-interfaces-cerveau-ordinateur-1).
 
 Les fichiers pertinents sont :
 
